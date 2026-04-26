@@ -1,0 +1,42 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Vector Database
+pgvector
+
+# LangChain and RAG
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-text-splitters
+
+# Document Processing
+pypdf
+python-docx
+unstructured
+
+# Embeddings
+sentence-transformers
+openai
+
+# Caching
+redis
+python-redis-cache
+
+# Environment and Config
+python-dotenv
+pydantic
+pydantic-settings
+
+# Utilities
+httpx
+tenacity
